@@ -15,6 +15,8 @@ Visit the main APL project page for more information: https://apl.washington.edu
 Database (real time and archive) is available here: https://faculty.washington.edu/jmt3rd/SWIFTdata/DynamicDataLinks.html
 
 ## microSWIFT v1
-The first version of the microSWIFT was based on a Raspberry Pi Zero and ran on Python code.  Documentation and operational code can be found a the microSWIFT v1 repo: https://github.com/SASlabgroup/microSWIFT
+The first version of the microSWIFT was based on a Raspberry Pi Zero and ran on Python code.  Documentation and operational code can be found a the microSWIFT v1 repo: 
+https://github.com/SASlabgroup/microSWIFT
 
-A full Python package for working with microSWIFT v1 telemetry data is available as a separate repository:  https://github.com/SASlabgroup/microSWIFTtelemetry
+A full Python package for working with microSWIFT v1 telemetry data is available as a separate repository: 
+https://github.com/SASlabgroup/microSWIFTtelemetry
