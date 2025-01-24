@@ -1,6 +1,6 @@
 # <img src= "./docs/SWIFTlogo.jpg" height="120" align=left></img> microSWIFT v2.1
 
-Documentation, source code, and CAD files for verion 2.1 of the microSWIFT wave buoy
+Static repository for documentation, source code, and CAD files for verion 2.1 of the microSWIFT wave buoy.
 
 ## About microSWIFT
 
