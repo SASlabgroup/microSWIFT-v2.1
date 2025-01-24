@@ -1,7 +1,9 @@
-# <img src= "./docs/SWIFTlogo.jpg" height="120" align=left></img> microSWIFT v2.1
+## <img src= "./docs/SWIFTlogo.jpg" height="120" align=left></img> microSWIFT v2.1
 
 Documentation, source code, and CAD files for verion 2.1 of the microSWIFT wave buoy
 
+
+#About microSWIFT
 
 microSWIFT is a low-cost, expendable, freely drifting wave buoy built by at the UW Applied Physics Lab.  It uses the Iridium satellite network to report real-time ocean wave data. It also supports additional measurements such as surface salinity and temperature via auxilliary sensors.
 
