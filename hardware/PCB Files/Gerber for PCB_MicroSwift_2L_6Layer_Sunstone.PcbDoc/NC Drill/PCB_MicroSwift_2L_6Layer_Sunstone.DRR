@@ -1,0 +1,27 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_MicroSwift_2L_6Layer_Sunstone.PcbDoc   1/23/2025  1:51:49 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_MicroSwift_2L_6Layer_Sunstone.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.203mm (8mil)                                            Round             4         PTH        3.30mm (0.13inch)
+T2      0.254mm (10mil)                                           Round             15        PTH        195.24mm (7.69inch)
+T3      0.305mm (12mil)         +/-0.025mm (1mil)                 Round             469       PTH        1813.11mm (71.38inch)
+T4      0.381mm (15mil)                                           Round             16        PTH        98.28mm (3.87inch)
+T5      0.75mm (30mil)                                            Round             6         PTH        72.14mm (2.84inch)
+T6      1.016mm (40mil)                                           Round             3         PTH        145.23mm (5.72inch)
+T7      1.02mm (40mil)                                            Round             2         PTH        3.00mm (0.12inch)
+T8      1.04mm (41mil)                                            Round             140       PTH        596.90mm (23.50inch)
+T9      1.1mm (43mil)                                             Round             6         PTH        12.70mm (0.50inch)
+T10     1.5mm (59mil)                                             Round             2         PTH        19.68mm (0.77inch)
+T11     1.6mm (63mil)                                             Round             8         PTH        50.17mm (1.98inch)
+T12     2.5mm (98mil)                                             Round             2         PTH        38.70mm (1.52inch)
+T13     3.251mm (128mil)                                          Round             4         PTH        182.44mm (7.18inch)
+T14     1.27mm (50mil)                                            Round             2         NPTH       9.00mm (0.35inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              679
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,55 @@
+,Line #,Name,Description,Designator,Quantity,Mount,Case/Package,Manufacturer 1,Manufacturer Part Number 1,Supplier 1,Supplier Part Number 1
+,7,PESD0402-140,TVS DIODE 14VWM 40VC 0402,D1,1,Surface Mount,0402,Littelfuse,PESD0402-140,Digikey,PESD0402-140CT-ND
+,45,G3VM-61GR2(TR05),Relay Ssr 25MA 1.48V Dc-in 1.3A 48V Ac/dc-out 4-PIN Sop T/r,K1,1,Surface Mount,SOP,Omron,G3VM-61GR2(TR05),Digikey,Z5431CT-ND
+,50,LMR50410YFQDBVRQ1,"Automotive qualified SIMPLE SWITCHER 4-V to 36-V, 1-A synchronous step-down converter 6-SOT-23 -40 to 150","U8, U9",2,Surface Mount,SOT-23-6,Texas Instruments,LMR50410XDBVR,Digikey,296-LMR50410XDBVRDKR-ND
+,42,SMAZ5V1-13-F,Vz=5.1V 4.84V~5.4V Izt=100mA P=1W,D5,1,Surface Mount,SMA,Diodes,SMAZ5V1-13-F,Digikey,SMAZ5V1-FDIDKR-ND
+,39,43650-0229,Conn Wire to Board HDR 2 POS 3mm Solder ST Top Entry Thru-Hole Micro-Fit 3.0 Tray,J1,1,Through Hole,Header,Molex,43650-0229,Digikey,WM10662-ND
+,37,SRR4028-3R9Y,Inductor Power Shielded Wirewound 3.9uH 30% 8.58 Q-Factor Ferrite 1.5A Saturation 60mROhm DCR,L1,1,Surface Mount,2020,Bourns,SRR4028-3R9Y,Digikey,118-SRR4028-3R9YCT-ND
+,38,SRR4028-3R3Y,Inductor Power Shielded Wirewound 3.3uH 30% 7.72 Q-Factor Ferrite 1.65A Saturation 35mROhm DCR,L2,1,Surface Mount,2020,Bourns,SRR4028-3R3Y,Digikey,SRR4028-3R3YCT-ND
+,2,MAX-M10S-00B,"Gnss Lcc Rx, Rom, Tcxo, Lna, Saw",MD1,1,Surface Mount,18-SMD Module,u-blox,MAX-M10S-00B,Mouser,377-MAX-M10S-00B
+,55,NUCLEO-U575ZI-Q - uSwift REV 2.1 Variant,NUCLEO-U575ZI-Q - uSwift REV 2.1 Variant,MOD1,1,,,,,,
+,56,RockBlock 9603 Iridum Modem,RockBlock 9603 Iridium Modem,MOD2,1,,,,,,
+,46,IRLML2803TRPBF,"Mosfet, Power; N-ch; Vdss 30V; Rds(on) 0.25 Ohm; Id 1.2A; MICRO3; Pd 540MW; Vgs +/-20V",Q1,1,Surface Mount,SOT-23,Infineon,IRLML2803TRPBF,Digikey,IRLML2803PBFCT-ND
+,47,DMP3030SN-7,Trans Mosfet P-ch 30V 0.7A 3-PIN SC-59 T/r / Mosfet P-ch 30V 700MA SC59-3,"Q2A, Q2B, Q4A, Q4B, Q4D, Q6, Q7",7,Surface Mount,SOT-23-3,Diodes,DMP3030SN-7,Digikey,DMP3030SNDICT-ND
+,48,DMN63D8L-7,Trans Mosfet N-ch 30V 0.35A 3-PIN SOT-23 T/r,"Q3A, Q3B, Q5A, Q5B, Q5D",5,Surface Mount,SOT-23-3,Diodes,DMN63D8L-7,Digikey,DMN63D8L-7DICT-ND
+,53,MAX3221EIPWR,IC DRVR/RCVR RS232 1CH 16-TSSOP,U1,1,Surface Mount,TSSOP,Texas Instruments,MAX3221EIPWR,Digikey,296-19383-6-ND
+,54,F2932NBGP,High Reliability SP2T Absorptive RF Switch,U2,1,Surface Mount,VQFN,Renesas,F2932NBGP,Digikey,800-3586-ND
+,49,TPS70950QDBVRQ1,LDO Regulator Pos 5V 0.15A 5-Pin SOT-23 T/R,U4,1,Surface Mount,SOT-23-5,Texas Instruments,TPS70950QDBVRQ1,Digikey,296-40935-1-ND
+,6,CD40106BM96G4,"6-ch, 3-V to 18-V inverters with Schmitt-Trigger inputs 14-SOIC -55 to 125",U5,1,Surface Mount,14-SOIC,Texas Instruments,CD40106BM96G4,Digikey,296-31480-1-ND
+,52,DRV5032AJLPG,"Low power (5 Hz, <1µA), low voltage (up to 5.5V) switch 3-TO-92 -40 to 85. High sensitivity (9.5mT) Onmipolar operation.","U11, U12",2,Through Hole,TO-92-3,Texas Instruments,DRV5032AJLPG,Digikey,296-DRV5032AJLPG-ND
+,8,"Capacitor 100nF +/- 10%, 50V, X7R, 0603","Chip Capacitor, 100nF, +/- 10%, 50 V, X7R 0603 (1608 Metric)","C1, C2, C3, C4, C5, C8, C19, C20, C25, C27, C30, C32",12,Surface Mount,0603,Yageo,CC0603KRX7R9BB104,Digikey,311-1344-6-ND
+,9,"Capacitor 100pF +/- 10%, 50V, X7R, 0603","Chip Capacitor, 100pF, +/- 10%, 50 V, X7R 0603 (1608 Metric)","C6, C7",2,Surface Mount,0603,Yageo,CC0603KRX7R9BB101,Digikey,311-3601-1-ND
+,3,EEH-ZA1H100R,Cap Aluminum 10uF 50V 20% (5 X 5.8mm) SMD 0.12 Ohm 750mA 5000 hr 105°C Embossed T/R,"C15, C18",2,Surface Mount,Radial,Panasonic,EEH-ZA1H100R,Mouser,667-EEH-ZA1H100R
+,34,"Capacitor 2.2uF 10%, 50V, X7R, 1210","Chip Capacitor, 2.2uF, 10%, 50 V, X7R 1210 (3225 Metric)","C16, C17, C36, C37",4,Surface Mount,1210,Yageo,CC1210KKX7R9BB225,Digikey,311-3535-1-ND
+,30,"Capacitor 330nF 10%, 50V, X7R, 0805","Chip Capacitor, 330nF, 10%, 50 V, X7R 0805 (2012 Metric)",C21,1,Surface Mount,0805,Yageo,CC0805KKX7R9BB334,Digikey,311-1888-1-ND
+,31,"Capacitor 33nF 10%, 50V, X7R, 0805","Chip Capacitor, 33nF, 10%, 50 V, X7R 0805 (2012 Metric)","C24A, C24B, C35A, C35B, C35D",5,Surface Mount,0805,Yageo,CC0805KRX7R9BB333,Digikey,311-1374-1-ND
+,35,"Capacitor 10uF 10%, 50V, X7R, 1210","Chip Capacitor, 10uF, 10%, 50 V, X7R 1210 (3225 Metric)","C26, C28, C29, C31, C33, C34, C44, C45",8,Surface Mount,1210,Yageo,CC1210KKX7R9BB106,Digikey,311-2035-6-ND
+,10,"Capacitor 10nF +/- 5%, 50V, C0G, 0603","Chip Capacitor, 10nF, +/- 5%, 50 V, C0G 0603 (1608 Metric)","C38, C39",2,Surface Mount,0603,Yageo,CC0603JRNPO9BN103,Digikey,311-3960-1-ND
+,44,1N4148WS,"Small Signal Diode, 75 V, 0.15 A, -55 to 150 degC, 2-Pin SOD-323, RoHS, Tape and Reel","D2, D3, D4, D6, D7",5,Surface Mount,SOD-323,ON Semiconductor / Fairchild,1N4148WS,Digikey,1N4148WSFSCT-ND
+,11,LTST-C190GKT,"LED Uni-Color Green, 100 mW, 30 mA, -55 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel",DS1,1,Surface Mount,0603,Vishay Lite-On,LTST-C190GKT,Digikey,160-1183-6-ND
+,12,LTST-C190KRKT,"LED Uni-Color Red, 62.5 mW, 25 mA, -30 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel",DS2,1,Surface Mount,0603,Vishay Lite-On,LTST-C190KRKT,Digikey,160-1436-6-ND
+,43,5-1814832-2,"SMA Connector Jack, Female Socket 50Ohm Through Hole Solder","J2, J3",2,Through Hole,SMA,TE Connectivity AMP,5-1814832-2,Digikey,17-5-1814832-2CT-ND
+,40,61200621621,Conn Shrouded Header (4 Sides) M 6 POS 2.54mm Solder ST Top Entry Thru-Hole Tray,J4,1,Through Hole,Header,Wurth Electronics,61200621621,Digikey,732-5394-ND
+,1,SSW-135-02-G-D,"Tiger Buy™ Socket Strip with PCB Tails, 0.100"" Pitch","J5, J6",2,Through Hole,Header,Samtec,SSW-135-02-G-D,Newark,11P9882
+,41,53398-4010,Conn Shrouded Header (3 Sides) HDR 10 POS 1.25mm Solder ST Top Entry SMD GOLD Plating PicoBlade™ T/R,P1,1,Surface Mount,Header,Molex,0533984010,Digikey,900-0533984010CT-ND
+,32,Resistor 0R +/- 1% 0805 125 mW,"Chip Resistor, 0 Ohm, +/- 1%, 125 mW, -55 to 155 degC, 0805 (2012 Metric)","R2, R3",2,Surface Mount,0805,Vishay,CRCW08050000Z0EA,Digikey,541-0.0ACT-ND
+,13,Resistor 499R +/-1% 0603 100 mW,"Chip Resistor, 499 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R6, R54",2,Surface Mount,0603,Panasonic,ERJ-3EKF4990V,Digikey,P499HDKR-ND
+,14,Resistor 100R +/-1% 0603 100 mW,"Chip Resistor, 100 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R7, R8",2,Surface Mount,0603,Panasonic,ERJ-3EKF1000V,Digikey,P100HDKR-ND
+,15,Resistor 10k +/-1% 0603 100 mW,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","R11, R12, R26, R39A, R39B, R50, R51, R52, R53, R57A, R57B, R58A, R58B, R58D",14,Surface Mount,0603,Yageo,RC0603FR-0710KL,Digikey,311-10.0KHRDKR-ND
+,16,Resistor 0R +/- 5% 0603 100 mW,"Chip Resistor, 0 Ohm, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R24, R29, R31, R34, R55",5,Surface Mount,0603,Yageo,RC0603JR-070RL,Digikey,311-0.0GRCT-ND
+,17,Resistor 649R +/-1% 0603 100 mW,"Chip Resistor, 649 Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)",R23,1,Surface Mount,0603,Panasonic,ERJ-3EKF6490V,Digikey,P649HCT-ND
+,18,Resistor 24K9 +/-1% 0603 100 mW,"Chip Resistor, 24.9k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R25, R30",2,Surface Mount,0603,Panasonic,ERJ-3EKF2492V,Digikey,P24.9KHCT-ND
+,19,Resistor 221K +/-1% 0603 100 mW,"Chip Resistor, 221k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R27, R28, R32, R33",4,Surface Mount,0603,Panasonic,ERJ-3EKF2213V,Digikey,P221KHCT-ND
+,20,Resistor 649K +/-1% 0603 100 mW,"Chip Resistor, 649k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)",R35,1,Surface Mount,0603,Panasonic,ERJ-3EKF6493V,Digikey,P649KHCT-ND
+,21,Resistor 100K +/-1% 0603 100 mW,"Chip Resistor, 100k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)",R36,1,Surface Mount,0603,Panasonic,ERJ-3EKF1003V,Digikey,P100KHDKR-ND
+,33,Resistor 20m +/- 1% 0805 250 mW,"Chip Resistor, 20 mOhm, +/- 1%, 125 mW, -55 to 125 degC, 0805 (2012 Metric)",R37,1,Surface Mount,0805,Yageo,RL0805FR-7W0R02L,Digikey,311-.02LUCT-ND
+,22,Resistor 499K +/-1% 0603 100 mW,"Chip Resistor, 499k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R38A, R38B",2,Surface Mount,0603,Panasonic,ERJ-3EKF4993V,Digikey,P499KHCT-ND
+,23,Resistor 1M +/-1% 0603 100 mW,"Chip Resistor, 1M Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R40, R44",2,Surface Mount,0603,Panasonic,ERJ-3EKF1004V,Digikey,P1.00MHDKR-ND
+,24,Resistor 88K7 +/-1% 0603 100 mW,"Chip Resistor, 88.7k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)",R41,1,Surface Mount,0603,Panasonic,ERJ-3EKF8872V,Digikey,P88.7KHCT-ND
+,25,Resistor 200K +/-1% 0603 100 mW,"Chip Resistor, 200k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R42, R46",2,Surface Mount,0603,Panasonic,ERJ-3EKF2003V,Digikey,P200KHDKR-ND
+,26,Resistor 22K1 +/-1% 0603 100 mW,"Chip Resistor, 22.1k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R43, R47",2,Surface Mount,0603,Panasonic,ERJ-3EKF2212V,Digikey,P22.1KHDKR-ND
+,27,Resistor 51K1 +/-1% 0603 100 mW,"Chip Resistor, 51.1k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)",R45,1,Surface Mount,0603,Panasonic,ERJ-3EKF5112V,Digikey,P51.1KHCT-ND
+,28,Resistor 49K9 +/-1% 0603 100 mW,"Chip Resistor, 49.9k Ohm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R48A, R48B, R48D",3,Surface Mount,0603,Panasonic,ERJ-3EKF4992V,Digikey,P49.9KHDKR-ND
+,29,Resistor 1k +/-1% 0603 100 mW,"Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)","R49A, R49B, R49D",3,Surface Mount,0603,Yageo,RC0603FR-131KL,Digikey,13-RC0603FR-131KLDKR-ND
+,51,MCP1792-5002H/DB,High input voltage regulator 5.0 V 3Ld SOT-223 3 SOT-223 TUBE RoHS Compliant: Yes,U10,1,Surface Mount,SOT-223-3,Microchip,MCP1792-5002H/DB,Digikey,MCP1792-5002H/DB-ND
+,5,TLV9061IDBVR,"Single, 5.5-V, 10-MHz, RRIO operational amplifier for cost-optimized applications 5-SOT-23 -40 to 125",U6,1,Surface Mount,SOT-23-5,Texas Instruments,TLV9061IDBVR,Digikey,296-52284-1-ND
