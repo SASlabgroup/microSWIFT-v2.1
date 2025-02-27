@@ -1,0 +1,3 @@
+[submodule "firmware"]
+	path = microSWIFT-v2.1-source
+	url = https://github.com/SASlabgroup/microSWIFT-v2.1-source
