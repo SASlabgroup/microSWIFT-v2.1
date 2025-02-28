@@ -1,6 +1,6 @@
 # Specs and Features
 
-# <img src= "./docs/microSWIFT Assembly, Short.PNG" align=center></img>
+# <img src= "microSWIFT Assembly, Short.PNG" align=center></img>
 ## General Specifications
 
 |                                       |                                                |
