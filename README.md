@@ -7,7 +7,7 @@ Static repository for documentation, source code, and CAD files for version 2.1 
 
 
 ## About microSWIFT
-# <img src= "./docs/microSWIFT Assembly, Short.PNG" height="400" align=right></img>
+# <img src= "./docs/microSWIFT Assembly, Short.PNG" height="300" align=right></img>
 microSWIFT is a low-cost, expendable, freely drifting wave buoy built by at the UW Applied Physics Lab.  It uses the Iridium satellite network to report real-time ocean wave data. It also supports additional measurements such as surface salinity and temperature via auxiliary sensors.
 
 microSWIFT can be deployed from an aircraft through a standard A-size Sonobuoy tube.  This makes it ideal for collecting wave data in environments not accessible by ship, such as in the path of a hurricane or in polar regions.  It can also be deployed by hand over the side of a ship like a traditional buoy or drifter.
